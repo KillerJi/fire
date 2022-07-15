@@ -1,0 +1,3 @@
+# mining
+
+fire eth mining
